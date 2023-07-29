@@ -1,2 +1,2 @@
 # BoostAutoJsonSerializer
-Serialize/De-serialize strigified JSON data directly with the help user defined structures
+Serialize/De-serialize stringified JSON data directly with the help of user-defined structures.
